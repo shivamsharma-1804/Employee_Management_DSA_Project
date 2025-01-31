@@ -1,4 +1,4 @@
-# Employee_Management_DSA_Project
+# Library_Management_DSA_Project
 
 ### 1. INTRODUCTION
 A Library Management System (LMS) is a software application designed to automate and streamline the operations of a library. It serves as a digital platform for cataloging, organizing, and managing a library's resources, including books, journals, and digital media. LMS facilitates tasks such as book circulation, user registration, and inventory management, allowing librarians to efficiently serve patrons and track library holdings. Additionally, it often includes features like search functionality, user authentication, and reporting tools to enhance the overall user experience. LMS plays a crucial role in modern libraries, optimizing resource utilization and providing a seamless interaction between library staff and users.
