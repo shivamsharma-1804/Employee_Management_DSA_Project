@@ -23,6 +23,7 @@ A successful system must :-
 ### 4. DATA STRUCTURE USED :
 Linked lists are used to maintain the list of books in the library (struct book) and the list of students who have borrowed books (struct student). This allows for dynamic addition and removal of elements, making it suitable for managing collections that may change over time.
 A linked list is a linear data structure in which elements are stored in nodes, and each node points to the next node in the sequence. It is a dynamic data structure that can grow or shrink in size during program execution.
+
 Advantages:
 
 • Dynamic Size: Unlike arrays, linked lists can dynamically grow or shrink in size.
